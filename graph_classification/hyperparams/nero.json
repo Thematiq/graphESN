@@ -1,0 +1,5 @@
+{
+  "tag": ["AVR", "AV0", "AFR"],
+  "digitiser_parameter": [5, 10, 20],
+  "compressor_parameter": [5, 10, 20]
+}

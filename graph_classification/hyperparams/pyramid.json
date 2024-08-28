@@ -1,0 +1,18 @@
+{
+    "alpha": [1e-2, 1e-2, 1, 10, 100],
+    "in_scaling": [0.1, 0.5, 0.8],
+    "hid_scaling": [0.1, 0.5, 0.8],
+    "n_internal_units": [50, 100],
+    "spectral_radius": [0.1, 0.5, 0.9],
+    "T": [3],
+    "K": [1],
+    "connectivity": [1],
+    "max_norm": [null],
+    "aggregation": ["sum"],
+    "mode": ["deep"],
+    "pool": ["decim"],
+    "readout": [false],
+    "readout_units_factor": [null],
+    "return_last": [true],
+    "input_weights_mode": ["uniform"]
+}

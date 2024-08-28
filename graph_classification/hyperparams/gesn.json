@@ -1,0 +1,10 @@
+{
+  "hidden_size": [500],
+  "hidden_density": [0.2],
+  "activation": ["tanh", "sna"],
+  "aggregator": ["sum"],
+  "num_layers": [6],
+  "num_groups": [1],
+  "spectral_radius": [0.2, 0.4, 0.6, 0.8],
+  "head": ["rf"]
+}

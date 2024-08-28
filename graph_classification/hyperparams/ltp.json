@@ -1,0 +1,11 @@
+{
+  "n_bins": [30, 50, 70, 100],
+  "normalization": ["none"],
+  "aggregation": ["histogram"],
+  "log_degree": [true, false],
+  "degree_sum": [true],
+  "shortest_paths": [true],
+  "edge_betweenness": [true],
+  "jaccard_index": [true],
+  "local_degree_score": [true]
+}

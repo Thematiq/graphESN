@@ -1,0 +1,11 @@
+{
+    "n_units": [15, 30, 60],
+    "lr": [0.0001, 0.00001],
+    "weight_decay": [0.0005, 0.00005],
+    "drop_prob": [0.0, 0.5],
+    "max_k": [3, 5, 7, 9],
+    "output": ["funnel", "restricted_funnel"],
+    "batch_size": [32],
+    "adjacency_matrix": ["A"],
+    "n_epochs": [200]
+}
